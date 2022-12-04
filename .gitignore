@@ -1,0 +1,4 @@
+*.pth
+.ipynb_checkpoints/
+data/fer2013
+checkpoints
